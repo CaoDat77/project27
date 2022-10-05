@@ -1,0 +1,21 @@
+{
+  "name": "terra-restaurant",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.2",
+    "boxicons": "^2.1.4",
+    "jquery": "^3.6.1",
+    "package_name": "^1.0.2"
+  }
+}

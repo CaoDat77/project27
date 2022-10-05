@@ -1,0 +1,21 @@
+header {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../public/image_aboutRes/poster.svg");
+}
+
+.avatar {
+  width: 10rem;
+  border-radius: 50%;
+}
+
+.cheff-1 {
+  z-index: 1;
+  width: 90%;
+  top: -10rem;
+  right: 0;
+}
+
+.cheff-2 {
+  top: 0;
+  left: 0;
+}
